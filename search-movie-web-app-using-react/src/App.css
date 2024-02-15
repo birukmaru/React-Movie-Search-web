@@ -27,6 +27,9 @@ body {
   
 }
 
+div h1{
+  text-align: center;
+}
 h1 {
   font-size: 3rem;
   letter-spacing: 0.9px;

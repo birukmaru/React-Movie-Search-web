@@ -18,8 +18,8 @@ const App = () => {
   };
 
   return (
-    <div>
-      <h1>MovieLand</h1>
+    <div className="app">
+      <h1 style={{ textAlign: "center" }}>Brak's MovieLand</h1>
       <div className="search">
         <input
           type="text"
